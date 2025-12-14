@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of 电商详情页设计",
+  "description": "An intelligent e-commerce detail page generator. It analyzes product images and basic information to generate comprehensive selling points, copy, and high-quality contextual images using the Gemini 3 Pro model.",
+  "requestFramePermissions": []
+}
